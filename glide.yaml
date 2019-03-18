@@ -1,0 +1,5 @@
+package: .
+import: []
+testImport:
+- package: ch15/series
+- package: github.com/easierway/concurrent_map
