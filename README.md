@@ -23,8 +23,8 @@
 ## [25 CSP（Communicating sequential processes）并发机制](src/ch18/README.md)
 ## [26 多路选择和超时](src/ch19/README.md)
 ## [27 channel的关闭和广播](src/ch20/README.md)
-## [12 字符串](src/ch9/README.md)
-## [12 字符串](src/ch9/README.md)
+## [28 任务的取消](src/ch20_1/README.md)
+## [29 Context与任务取消](src/ch20_2/README.md)
 
 Go 语言从入门到实战——极客时间
 
