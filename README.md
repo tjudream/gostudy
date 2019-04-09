@@ -25,6 +25,18 @@
 ## [27 channel的关闭和广播](src/ch20/README.md)
 ## [28 任务的取消](src/ch20_1/README.md)
 ## [29 Context与任务取消](src/ch20_2/README.md)
+## [30 只运行一次](src/ch21/README.md)
+## [31 仅需任意任务完成](src/ch22/README.md)
+## [32 所有任务完成](src/ch23/README.md)
+## [33 对象池](src/ch24/README.md)
+## [34 sync.pool 对象缓存](src/ch33/README.md)
+## [35 单元测试](src/ch35/README.md)
+## [36 Benchmark](src/ch36/README.md)
+## [37 BDD](src/ch37/README.md)
+## [38 反射编程](src/ch38/README.md)
+## [39 万能程序](src/ch39/README.md)
+## [40 不安全编程](src/ch40/README.md)
+## [41 实现pipe-filter framework](src/ch41/README.md)
 
 Go 语言从入门到实战——极客时间
 
