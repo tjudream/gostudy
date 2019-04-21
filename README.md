@@ -37,6 +37,10 @@
 ## [39 万能程序](src/ch39/README.md)
 ## [40 不安全编程](src/ch40/README.md)
 ## [41 实现pipe-filter framework](src/ch41/README.md)
+## [42 实现micro-kernel framework](src/ch42/README.md)
+## [43 内置JSON解析](src/ch43/README.md)
+## [44 easyjson](src/ch44/README.md)
+## [45 HTTP服务](src/ch45/README.md)
 
 Go 语言从入门到实战——极客时间
 
