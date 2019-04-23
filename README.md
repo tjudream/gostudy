@@ -41,6 +41,8 @@
 ## [43 内置JSON解析](src/ch43/README.md)
 ## [44 easyjson](src/ch44/README.md)
 ## [45 HTTP服务](src/ch45/README.md)
+## [46 构建Restful服务](src/ch46/README.md)
+## [47 性能分析工具](src/ch47/README.md)
 
 Go 语言从入门到实战——极客时间
 
